@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Vienna by bus</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="indexeng.html" class="logo">Olga Yurkevich</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="indexeng.html">Overview</a></li>
+							<li><a href="Viennabyfoot.html">Vienna by foot</a></li>
+							<li class="active"><a href="Viennabybus.html">Vienna by bus</a></li>
+							<li><a href="MuseumVienna.html">Museums in Vienna</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/_olgyy/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h1>Entdecken Sie<br />
+									Wien auf Rädern</h1>
+									<p>Folgende Führungen biete ich an</p>
+								</header>
+							</section>
+						<!-- Posts -->
+						<section class="posts">
+							<article>
+								<header>
+									<h2>Klassische Stadtrundfahrt</h2>
+								</header>
+								<img src="images/BusfahrtUNO.jpg" alt="" width="300" height="200"></a>
+								<ul class="feature-icons">
+									<li class="icon solid fa-clock" style="font-size: 17px;"> Dauer: 4 Stunden</li>
+									<li class="icon solid fa-euro-sign" style="font-size: 17px;"> Preis: 90 Euro pro Stunde (inkl. Auto/Bus)</li>
+									<style>
+										.feature-icons li {
+										  list-style: none;
+										}
+									  </style>
+								</ul>
+								<p style="font-size: 17px;">Wien ist immer schön! Aber wie schön ist es, wenn man die Stadt aus dem Fenster eines komfortablen Autos bewundern kann. Wir werden an der Wiener Oper, dem Rathaus, dem Kunsthistorischen Museum und dem Naturhistorischen Museum anhalten. Sie sehen die Universität Wien, das Parlament, die Denkmäler von Mozart und Strauß. Wir steigen am Haus des Künstlers und Architekten Friedensreich Hundertwasser aus, fahren zum Prater und sehen das Riesenrad und die Donau, das Geschäftszentrum und die UNO. Unser nächster Halt ist das Belvedere, die Sommerresidenz des begabten Militärführers Prinz Eugen von Savoyen. Es ist ein sehr schöner Barockpalast. Und dann fahren wir mit Ihnen in den Westen von Wien zur Sommerresidenz der Habsburger - dem prächtigen Architektur- und Parkkomplex Schönbrunn. Schönbrunn kann man unendlich bewundern. Es ist die Macht und Größe des Habsburgerreiches.</p>
+								<p><b style="border: 10px black;">Buchen Sie die Führung ganz einfach per <a href="tel:436509799011">Telefon</a>, <a href="https://wa.me/436509799011">WhatsApp</a>, <a href="https://t.me/olgyy1">Telegram</a>, <a href="mailto:olgaayur@gmail.com">Email</a> oder <a href="https://www.instagram.com/_olgyy/">Instagram</a></b></p>
+							</article>
+							<article>
+								<header>
+									<h2>Von Palais bis <br /> zur Schrammelmusik: Stadtrundfahrt am Abend</h2>
+								</header>
+								<img src="images/Kahlenberg.jpg" alt="" width="300" height="200"></a>
+								<ul class="feature-icons">
+									<li class="icon solid fa-clock" style="font-size: 17px;"> Dauer: 4 Stunden</li>
+									<li class="icon solid fa-euro-sign" style="font-size: 17px;"> Preis: 90 Euro pro Stunde (inkl. Auto/Bus)</li>
+									<style>
+										.feature-icons li {
+										  list-style: none;
+										}
+									  </style>
+								</ul>
+								<p style="font-size: 17px;">Die Museen schließen, aber die nationalen österreichischen Heurigenlokale öffnen. Um ein Gefühl für das lokale Flair zu bekommen, werden wir in die Berge fahren. Aber erst einmal werden wir sehen, wie das Leben auf dem Prater am Abend zu brodeln beginnt, wie schön das Riesenrad beleuchtet ist, wir werden noch einmal den Ring um das Zentrum von Wien entlangfahren, wir werden an interessanten Denkmälern und Palästen anhalten und wir werden Wien von der Aussichtsplattform des Kahlenbergs aus bewundern.</p>
+								<p><b style="border: 10px black;">Buchen Sie die Führung ganz einfach per <a href="tel:436509799011">Telefon</a>, <a href="https://wa.me/436509799011">WhatsApp</a>, <a href="https://t.me/olgyy1">Telegram</a>, <a href="mailto:olgaayur@gmail.com">Email</a> oder <a href="https://www.instagram.com/_olgyy/">Instagram</a></b></p>
+							</article>
+						</section>
+
+					</div>
+
+				<!-- Footer -->
+				<footer id="footer">
+					<section class="split contact">
+						<section class="alt">
+								<h3>Email</h3>
+								<p><a href="mailto:olgaayur@gmail.com">olgaayur@gmail.com</a></p>
+							</section>
+						<section>
+							<h3>Telefon</h3>
+							<p><a href="tel:436509799011">+43 650 9799011</a></p>
+						</section>
+						<section>
+							<h3>Soziale Medien</h3>
+							<ul class="icons alt">
+								<li><a href="https://www.instagram.com/_olgyy/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+							</ul>
+						</section>
+						<section>
+							<h3>Impressum</h3>
+							<p><a href="Impressum.html">Impressum</a></p>
+						</section>
+					</section>
+				</footer>
+
+			<!-- Copyright -->
+				<div id="copyright">
+					<ul><li>&copy; Olga Yurkevich</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+				</div>
+
+		</div>
+
+	<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+
+</body>
+</html>
