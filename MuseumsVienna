@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Museen Wiens</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="indexeng.html" class="logo">Olga Yurkevich</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li><a href="indexeng.html">Overview</a></li>
+							<li><a href="Viennabyfoot.html">Vienna by foot</a></li>
+							<li><a href="Viennabybus.html">Vienna by bus</a></li>
+							<li class="active"><a href="MuseumsVienna.html">Museums in Vienna</a></li>
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.instagram.com/_olgyy/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Post -->
+							<section class="post">
+								<header class="major">
+									<h1>Besuchen Sie mit mir die interessantesten Museen<br />
+									und Bauten Wiens</h1>
+								</header>
+								<img src="images/wienmuseum.jpg" alt="" style="float: right; border: 30px solid white;" width="500" height="800" 
+								<div class="text-box">
+								<p style="font-size: 17px;">Jahrhundertelang war Wien nicht nur die politische Hauptstadt des riesigen Habsburgerreiches, sondern auch ein Weltzentrum der Kultur. Komponist:innen, Architekt:innen und Künstler:innen suchten Wien auf und schufen hier ihre unsterblichen Meisterwerke. Und heute, im 21. Jahrhundert, kann Wien zu Recht als die Kulturhauptstadt Europas bezeichnet werden. In der Stadt gibt es mehr als 100 Museen, darunter nicht nur weltberühmte Kunstgalerien, sondern auch Museen mit einzigartigen Sammlungen, die, das kann ich Ihnen versichern, nicht nur für Spezialisten interessant sind.
+									Ich biete Autorenführungen an, bei denen Sie im Musikinstrumentenmuseum Geigen und Cembali aus der Zeit Mozarts und Beethovens sehen können; im Museum für angewandte Kunst die Geschichte des berühmten Wiener Stuhls kennen lernen, sich im Ephesus-Museum wie ein:e Bewohner:in einer antiken Stadt fühlen, im Uhrenmuseum die Uhrzeit ablesen und im Fälschungsmuseum erfahren, wie gefälschte Gemälde und Skulpturen entstanden sind.
+									Aber das ist noch nicht alles. Die Wiener Museen veranstalten Wechselausstellungen mit Gemälden weltberühmter Künstler:innen aus den führenden Museen der Welt, berühmten österreichischen Künstler:innen, grafischen und zeitgenössischen Kunstsammlungen. Für jede dieser Wechselausstellungen im Kunsthistorischen Museum, in der Hofburg, in der Albertina oder im Belvedere bereite ich ein Führungsprogramm vor, das ich Ihnen bereits in den ersten Tagen der Ausstellung anbieten kann.
+									</p>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+				<footer id="footer">
+					<section class="split contact">
+						<section class="alt">
+								<h3>Email</h3>
+								<p><a href="mailto:olgaayur@gmail.com">olgaayur@gmail.com</a></p>
+							</section>
+						<section>
+							<h3>Telefon</h3>
+							<p><a href="tel:436509799011">+43 650 9799011</a></p>
+						</section>
+						<section>
+							<h3>Soziale Medien</h3>
+							<ul class="icons alt">
+								<li><a href="https://www.instagram.com/_olgyy/" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
+							</ul>
+						</section>
+						<section>
+							<h3>Impressum</h3>
+							<p><a href="Impressum.html">Impressum</a></p>
+						</section>
+					</section>
+				</footer>
+
+			<!-- Copyright -->
+				<div id="copyright">
+					<ul><li>&copy; Olga Yurkevich</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+				</div>
+
+		</div>
+
+	<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+
+</body>
+</html>
