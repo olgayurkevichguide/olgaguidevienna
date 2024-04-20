@@ -33,6 +33,9 @@
 						<ul class="icons">
 							<li><a href="https://www.instagram.com/_olgyy/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 						</ul>
+  <button id="en"><p><a href="indexeng.html">English</a></p></button>
+  <button id="de"><p><a href="index.html">Deutsch</a></p></button>
+	<button id="de"><p><a href="index.html">Русский</a></p></button>
 					</nav>
 
 				<!-- Main -->
